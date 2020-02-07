@@ -1,0 +1,26 @@
+.nav-bar{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-style: oblique;
+}
+.nav-bar-link{
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 1s;
+}
+.nav-bar-link a {
+    color: rgb(20, 18, 18);
+    transition-delay: 1s ;
+    transition: color 1s;
+    border: 2px solid transparent;
+    text-underline-position:below solid white;
+}
+.nav-bar-link a:hover{
+    color: white;
+}
+body{
+    font-size: large;
+    font-style: oblique;
+    text-align: center;
+}
