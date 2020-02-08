@@ -2,10 +2,11 @@ img{
     float: right;
 }
 h1{
-    margin-top: 1px;
-    margin-bottom: -10px;
-    text-align: center;
-}   
+    margin-bottom: -9pt;
+}
+h2{
+    margin-bottom: -10pt;
+}
 .ed{
     padding-bottom: 9pt;
 }
@@ -16,9 +17,4 @@ body{
 @media screen and (max-width:450px) {
     body {
         background-color: darkslategray;
-}
-.edits ol{
-    margin-bottom: -9pt;
-    padding-bottom:-9pt;
-    margin-top: -9pt;
 }

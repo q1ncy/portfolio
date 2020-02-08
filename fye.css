@@ -1,0 +1,45 @@
+ 
+body
+p{
+    font-size: medium;
+    font-style: italic;
+    color: rgb(12, 12, 27);
+}
+.frank {
+    float: left;
+}
+.faxx{
+    font-style: normal;
+    column-width: 9cm;
+    border-style: dotted;
+    box-sizing: content-box; 
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-style: oblique;
+}
+.nav-bar-link{
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 1s;
+}
+.nav-bar-link a {
+    color: rgb(20, 18, 18);
+    transition-delay: 1s ;
+    transition: color 1s;
+    border: 2px solid transparent;
+    text-underline-position:below solid white;
+    text-decoration: none;
+}
+.nav-bar-link a:hover{
+    color: white;
+}
+ h2{
+    font-size: 20px;
+    text-transform: uppercase;
+    text-align: center;
+ }
+ 
