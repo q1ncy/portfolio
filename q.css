@@ -30,5 +30,9 @@ p{
     color: darkorange;
     padding-top: 20%;
     font-weight: bold;
-
+}
+@media screen and (min-width:500px) {
+body {
+    opacity:0.5;
+}
 }
