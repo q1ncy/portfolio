@@ -12,8 +12,7 @@ body{
     padding: 10px;
 }
 .nav-bar-link a {
-    color: rgb(20, 18, 18);
-    transition-delay: 1s ;
+    color: rgb(20, 18, 18); 
     transition: 1s; 
     text-underline-position:below solid white;
     padding: 10px;

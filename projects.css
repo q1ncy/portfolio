@@ -1,0 +1,18 @@
+.project-link a{
+    text-decoration: none;
+    color: rgb(183, 196, 6);
+}
+.project-link a:hover{
+    color: dimgrey;
+}
+body{
+    background-color: lightgrey;
+}
+.prjcs {
+ font-weight: bold;
+ border: 2px;
+ padding: 6px;
+ border-style: dotted;
+ background-color:rgb(253, 193, 193);
+ float: left;
+}
