@@ -1,0 +1,17 @@
+img{
+    float: right;
+}
+h1{
+    margin-bottom: -9pt;
+}
+h2{
+    margin-bottom: -10pt;
+}
+.ed{
+    padding-bottom: 9pt;
+    padding-inline: 2pt;
+}
+body{
+    background-color: lightgrey;
+    opacity: 0.5;
+}
