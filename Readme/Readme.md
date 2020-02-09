@@ -1,14 +1,14 @@
-#{Portfolio}
-#### {a simple portfolio which aid in acessing progress},{08/02/2019}
+# Portfolio
+#### a simple portfolio which aid in acessing progress},{08/02/2019}
 #### By
-{Quincy Barnabas}
+Quincy Barnabas
 ## Description
-{The designed web portfolio is user friendly and showcases much og what i have been doing as per my time in Moringa school.One can easily see the developing skills aquired by the latter in the institute.}
+The designed web portfolio is user friendly and showcases much og what i have been doing as per my time in Moringa school.One can easily see the developing skills aquired by the latter in the institute.
 ## setup Requirements
-{since its a website it ha sno intalation requirements but technically one require a stable internet connection to acces the portfolio.}
+since its a website it ha sno intalation requirements but technically one require a stable internet connection to acces the portfolio.
 ##Contact
-{email:qbarnabas@gmail.com}
+email:qbarnabas@gmail.com
+
 ###License
 {MIT}
-Copyright (C) {2019}{Quincy}
-
+Copyright (C) {2019 Quincy
