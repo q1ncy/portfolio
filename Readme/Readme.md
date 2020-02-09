@@ -6,9 +6,10 @@ Quincy Barnabas
 The designed web portfolio is user friendly and showcases much og what i have been doing as per my time in Moringa school.One can easily see the developing skills aquired by the latter in the institute.
 ## setup Requirements
 since its a website it ha sno intalation requirements but technically one require a stable internet connection to acces the portfolio.
-##Contact
+
+#Contact
 email:qbarnabas@gmail.com
 
-###License
-{MIT}
-Copyright (C) {2019 Quincy
+##License
+MIT
+Copyright (C) 2019 Quincy
