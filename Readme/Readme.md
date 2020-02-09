@@ -11,5 +11,5 @@ since its a website it ha sno intalation requirements but technically one requir
 email:qbarnabas@gmail.com
 
 ##License
-MIT
-Copyright (C) 2019 Quincy
+*MIT*
+*Copyright (C) 2019 **Quincy**
