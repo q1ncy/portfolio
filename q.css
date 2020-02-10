@@ -32,6 +32,6 @@ p{
 }
 @media screen and (min-width:500px) {
 body {
-    opacity:0.5;
+    opacity:1;
 }
 }
