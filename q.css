@@ -1,37 +1,36 @@
-body{
-    background-image: url("img/nat.jpg") ;
-    background-repeat: no-repeat;
-    background-size: cover;
-    }
-.nav-bar{
-    display: flex;
-    justify-content: right;
-    text-decoration: none;
-    text-transform: uppercase;
-    font-style: oblique;
-    padding: 10px;
+body {
+  background-image: url("/portfolio/images/life.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nav-bar {
+  display: inline-block;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-style: oblique;
+  font-size: x-large;
+  padding: 90px 0px 0px 700px;
 }
 .nav-bar-link a {
-    color: rgb(20, 18, 18); 
-    transition: 1s; 
-    text-underline-position:below solid white;
-    padding: 10px;
-    text-decoration: none;
+  color: rgb(221, 43, 19);
+  transition: 1s;
+  text-underline-position: below solid white;
+  text-decoration: none;
 }
 
-.nav-bar-link a:hover{
-    color: white;
+.nav-bar-link a:hover {
+  color: rgb(240, 178, 178);
 }
-p{
-    font-size: 50px;
-    font-style: oblique;
-    text-align: center;
-    color: darkorange;
-    padding-top: 20%;
-    font-weight: bold;
+p {
+  font-size: 50px;
+  font-style: oblique;
+  text-align: center;
+  color: darkorange;
+  padding-top: 20%;
+  font-weight: bold;
 }
-@media screen and (min-width:500px) {
-body {
-    opacity:1;
-}
+@media screen and (min-width: 500px) {
+  body {
+    opacity: 1;
+  }
 }
